@@ -120,4 +120,10 @@ a:hover {
 	font-style: italic;
 }
 
+.frase__span{
+	font-weight: bold;
+	color: #58287F
+	/* font-style: italic; */
+}
+
 
